@@ -112,7 +112,7 @@ body {
 @media only screen and (max-width: 600px) {
   /* Estilos específicos para dispositivos con un ancho máximo de 600px */
 .flowers {
-      font-size: 14px;
+      font-size: 10px;
       margin-bottom: 35%;
       letter-spacing: 3px;
       transform: scale(1.0);

@@ -80,10 +80,7 @@ body{
     color: #111;
 }
 
-.titulo {
-    margin-bottom: 130% ;
-    font-size: 1em;
-}
+
 
 @media screen and (max-width:574px){
     .greetings{
